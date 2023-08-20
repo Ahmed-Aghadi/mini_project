@@ -1,0 +1,6 @@
+[submodule "smart_contracts/lib/solmate"]
+	path = smart_contracts/lib/solmate
+	url = https://github.com/transmissions11/solmate
+[submodule "smart_contracts/lib/chainlink-brownie-contracts"]
+	path = smart_contracts/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
